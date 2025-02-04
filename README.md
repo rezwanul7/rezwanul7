@@ -1,11 +1,13 @@
 <h1 align="left">Hi there, I'm SM Rezwanul Islam! 👋</h1>
 
 ###
-<blockquote style="font-size: 1.3rem; font-weight: bold; padding: 35px; border-left: 5px solid #0078D7; background: #f5f5f5;">
-    "One developer, three expertises—Web, Mobile, and Cloud. Why look elsewhere?"
-</blockquote>
 
 <p align="left">Welcome to my GitHub profile! I'm a <strong>Senior Software Engineer and Mobile App Specialist</strong> with over 8 years of experience.</p>
+<br/>
+
+> **_"One developer, three expertises—Web, Mobile, and Cloud. Why look elsewhere?"_**
+<br/>
+
 
 ###
 
@@ -34,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
