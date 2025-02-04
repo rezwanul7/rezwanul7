@@ -1,6 +1,3 @@
-Based on the information from your portfolio website  here's a tailored GitHub profile README for you:
-
-```markdown
 # Hi there, I'm SM Rezwanul Islam! 👋
 
 Welcome to my GitHub profile! I'm a Senior Software Engineer and Mobile App Specialist with over 8 years of experience in developing scalable web and mobile applications, particularly in the e-commerce and food service industries. I align technical solutions with business objectives and am committed to continuous learning and adopting emerging technologies.
@@ -79,7 +76,6 @@ Welcome to my GitHub profile! I'm a Senior Software Engineer and Mobile App Spec
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you're interested in collaborating on any exciting projects.
-```
 
 <!--
 **rezwanul7/rezwanul7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
