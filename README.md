@@ -27,7 +27,7 @@
 
 💡 Explore more about my work: [rezwanul7.github.io](https://rezwanul7.github.io/) 🚀
 
-## I develop backend with
+#### I develop backend with
 
 ###
 
@@ -41,11 +41,20 @@
   <img width="12" />
 </div>
 
-## I develop web frontend with
+### I develop web frontend with
 
 ###
 
 <div align="left">
+  <span>Backend</span>
+    <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="120" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
@@ -53,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="40" alt="astro logo" />
 </div>
 
-## I develop mobile apps with
+### I develop mobile apps with
 
 ###
 
@@ -63,7 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="40" alt="android logo"/>
 </div>
 
-## Miscellaneous
+### Miscellaneous
 
 ###
 
