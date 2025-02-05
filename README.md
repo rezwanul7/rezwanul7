@@ -12,7 +12,7 @@
 
 ### 🚀 What I Do  
 
-- I **write code**, build applications, and deploy them to the cloud.  
+- I **write code**, build dynamic data-driven apps, and deploy them to the cloud.  
 - I **communicate** problems and ideas effectively to drive solutions.  
 - I provide **end-to-end services** in:  
   - **Web Application Development** 🌐
@@ -54,6 +54,7 @@
 ## 📫 How to Reach Me
 
 - **LinkedIn**: [SM Rezwanul Islam](https://www.linkedin.com/in/rezwanul7/)
+- **Upwork**: [SM Rezwanul Islam](https://www.upwork.com/freelancers/rezwanulislam/)
 - **Email**: rezwanul7@gmail.com
 
 ---
