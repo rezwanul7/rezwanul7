@@ -1,29 +1,31 @@
-<h1 align="left">Hi there, I'm SM Rezwanul Islam! 👋</h1>
+<br>
+<h3 align="center">"One developer, three expertises—Web, Mobile, and Cloud. Why look elsewhere?"</h3>
+<br>
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I'm a <strong>Senior Software Engineer and Mobile App Specialist</strong> with over 8 years of experience.</p>
-<br/>
+<p align="left">
+  My name is SM Rezwanul Islam and I'm a <strong>Senior Software Engineer and Mobile App Specialist</strong> with over 8 years of experience.
+</p>
 
-> **_"One developer, three expertises—Web, Mobile, and Cloud. Why look elsewhere?"_**
-<br/>
+### 🚀 What I Do  
 
+- I **write code**, build applications, and deploy them to the cloud.  
+- I **communicate** problems and ideas effectively to drive solutions.  
+- I provide **end-to-end services** in:  
+  - **Web Application Development** 🌐
+  - **Mobile Application Development** 📱  
+  - **Cloud & Server Deployment** ☁️
 
-###
+### 🛠️ Primary Areas of Focus & Expertise
 
-## 🚀 Services I Provide
+- **Laravel** – Robust backend framework for scalable web applications ⚡  
+- **Vue.js** – Progressive UI framework for dynamic front-end experiences 🎨  
+- **Flutter** – Cross-platform UI framework for stunning mobile apps 📱  
 
-- **Web Application Development**
-- **Mobile Application Development**
-- **Cloud & Server Deployment**
-
-## 🛠️ Primary Areas of Focus & Expertise
-
-- **Laravel**: Framework
-
-- **VueJs**: UI framework
-
-- **Flutter**: UI framework
+💡 Explore more about my work: [rezwanul7.github.io](https://rezwanul7.github.io/) 🚀
 
 ## I code with
 
