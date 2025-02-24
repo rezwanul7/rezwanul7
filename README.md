@@ -1,5 +1,5 @@
 <br>
-<h3 align="center">"One developer, three expertises—Web, Mobile, and Cloud. Why look elsewhere?"</h3>
+<h3 align="center">"One developer, three areas of expertise—Web, Mobile, Cloud. Why look elsewhere?"</h3>
 <br>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
