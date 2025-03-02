@@ -2,13 +2,15 @@
 <h3 align="center">"One developer, three areas of expertise—Web, Mobile, Cloud. Why look elsewhere?"</h3>
 <br>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" /> Hi there, I'm Rezwan!
+
+---
 
 <p align="left">
-  My name is SM Rezwanul Islam and I'm a <strong>Senior Software Engineer and Mobile App Specialist</strong> with over 8 years of experience.
+I'm a <strong>Senior Software Engineer and Mobile App Specialist</strong> with over 8 years of experience.
 </p>
 
-🛠️ Primary Areas of Focus - **Laravel** ⚡ | **Vue.js** 🎨 | **Flutter**  📱
+🛠️ My Primary Areas of Focus - **Laravel** | **Vue.js** | **Flutter**
 
 💡 Explore more about my work: [rezwanul7.github.io](https://rezwanul7.github.io/) 🚀
 
