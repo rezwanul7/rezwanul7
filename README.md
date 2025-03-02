@@ -14,19 +14,6 @@ I'm a <strong>Senior Software Engineer and Mobile App Specialist</strong> with o
 
 💡 Explore more about my work: [rezwanul7.github.io](https://rezwanul7.github.io/) 🚀
 
----
-
-## 📫 How to Reach Me
-
-- **LinkedIn**: [SM Rezwanul Islam](https://www.linkedin.com/in/rezwanul7/)
-- **Upwork**: [SM Rezwanul Islam](https://www.upwork.com/freelancers/rezwanulislam/)
-- **Email**: rezwanul7@gmail.com
-
----
-
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you're interested in collaborating
-on any exciting projects.
-
 <!--
 **rezwanul7/rezwanul7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
