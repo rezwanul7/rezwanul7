@@ -10,7 +10,7 @@
 I'm a <strong>Senior Software Engineer and Mobile App Specialist</strong> with over 8 years of experience.
 </p>
 
-🛠️ My Primary Areas of Focus - **Laravel** | **Vue.js** | **Flutter**
+🛠️ My Primary Areas of Focus - **Laravel** | **Next.js** | **Flutter**
 
 💡 Explore more about my work: [rezwanul7.github.io](https://rezwanul7.github.io/) 🚀
 
