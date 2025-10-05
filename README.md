@@ -1,7 +1,3 @@
-<br>
-<h3 align="center">"One developer, three areas of expertise—Web, Mobile, Cloud. Why look elsewhere?"</h3>
-<br>
-
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" /> Hi there, I'm Rezwan!
 
 ---
@@ -12,7 +8,13 @@ I'm a <strong>Senior Software Engineer and Mobile App Specialist</strong> with o
 
 🛠️ My Primary Areas of Focus - **Next.js** | **Laravel** | **Flutter**
 
-💡 Explore more about my work: [rezwanul7.github.io](https://rezwanul7.github.io/) 🚀
+💡 Want to Learn More? Check out my portfolio: [rezwanul7.github.io](https://rezwanul7.github.io/) 🚀
+
+<br>
+<h3 align="center">"One developer, three areas of expertise—Web, Mobile, Cloud. Why look elsewhere?"</h3>
+<br>
+
+
 
 <!--
 **rezwanul7/rezwanul7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
